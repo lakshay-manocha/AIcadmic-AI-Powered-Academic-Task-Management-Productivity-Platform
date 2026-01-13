@@ -1,0 +1,6 @@
+com\AIcadmic\springboot\mywebapp\login\AuthenticationService.class
+com\AIcadmic\springboot\mywebapp\login\LoginController.class
+com\AIcadmic\springboot\mywebapp\MywebappApplication.class
+com\AIcadmic\springboot\mywebapp\todo\TodoController.class
+com\AIcadmic\springboot\mywebapp\todo\Todo.class
+com\AIcadmic\springboot\mywebapp\todo\TodoService.class
